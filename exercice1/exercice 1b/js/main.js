@@ -1,0 +1,1 @@
+let  = prompt('bonjour ','votre prénom!')
